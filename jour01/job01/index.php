@@ -34,14 +34,7 @@
             echo $myBool; // afficher 0 
 
            
-            
-
-            
-
-
-
-
-
+    
 
             ?>
     </body>
