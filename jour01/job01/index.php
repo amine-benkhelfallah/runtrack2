@@ -7,8 +7,15 @@
     <body>
       
         <?php
+        $str2 = ' vive ';
+        echo $str2;
 
-            echo 'Hello LaPlateforme!';
+        $str = 'LaPlateforme';
+        echo $str;
+      
+        $str3 = ' ! ';
+        echo $str3;
+
             ?>
     </body>
 </html>
