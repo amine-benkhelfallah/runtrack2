@@ -16,12 +16,31 @@
         $str3 = ' ! ';
         echo $str3; 
      
-        echo "<br>";
-
-
-
+        echo "<br>";  // saut de ligne 
         $val = '6';
-        echo $val + 4;
+        echo $val; // afficher la variable 6
+
+        echo "<br>"; // saut deligne 
+        echo $val + 4; //ajouter a notre variable et l'afficher 
+        echo "<br>"; // saut deligne 
+
+        
+            $myBool = true;
+            echo $myBool;  //  afficher 1
+            
+            echo "<br>"; // saut deligne 
+
+            $myBool = false;
+            echo $myBool; // afficher 0 
+
+           
+            
+
+            
+
+
+
+
 
 
             ?>
