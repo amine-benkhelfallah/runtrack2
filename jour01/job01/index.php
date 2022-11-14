@@ -14,7 +14,15 @@
         echo $str;
       
         $str3 = ' ! ';
-        echo $str3;
+        echo $str3; 
+     
+        echo "<br>";
+
+
+
+        $val = '6';
+        echo $val + 4;
+
 
             ?>
     </body>
