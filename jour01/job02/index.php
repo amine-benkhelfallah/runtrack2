@@ -5,20 +5,15 @@
         <meta charset="utf-8">
     </head>
     <body>
-      
         <?php
+            // ceci est un commentaire d'une seule ligne 
+            echo ' Hello LaPlateforme! '; 
 
-      // ceci est un commentaire d'une seule ligne 
-       echo ' Hello LaPlateforme! ';
+            echo "<br>"; 
 
-
-        echo "<br>"; 
-
-     /* ceci est un commentaire 
-     pour un bloc en entier     */
-        echo ' Hello LaPlateforme! ';
-
-
-            ?>
+            echo ' Hello LaPlateforme! '; 
+            /* ceci est un commentaire 
+            pour un bloc en entier     */
+        ?>
     </body>
 </html>
