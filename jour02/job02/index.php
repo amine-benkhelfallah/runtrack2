@@ -7,21 +7,18 @@
     <body>
     
         <?php
-            for($x = 1; $x <= 1336; $x++){   
-                if ($x == 42) {
-                    echo "<b><u> $x </u></b> <br>";
+            for($x = 0; $x <= 1337; $x++){   
+                if ($x === 26 || $x === 37 || $x === 88 || $x === 1111 ) {
+                    echo " <br>";
                 } 
+                
                 else {
                     echo "$x <br>";
                 }     
             }
             ?>
            
-
     </body>
 </html>
 
     
-
-    </body>
-</html>
