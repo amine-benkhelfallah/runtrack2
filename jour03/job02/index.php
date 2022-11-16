@@ -17,7 +17,7 @@
          }
  
          for ($i =0; $i < $long; $i++) {
-         if ($i % 2 == 0) {               // Pour afficher que les caractere impaire.  
+         if ($i % 2 == 0) {               // Pour afficher que les caractere impaire. cad un caractère sur deux.  
              echo $str[$i];
          }
          }
