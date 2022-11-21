@@ -1,0 +1,32 @@
+*{
+    font-family:'Apple Chancery, cursive';
+    font-size:30px;
+}
+
+body{
+    background-image: url("img/img3.jpg");
+    background-size: cover;
+}   
+
+form{
+    display: flex;
+    flex-direction:column;
+    margin-top: 20%;
+}
+
+.form-row{
+    display:flex;
+    justify-content: center;
+}
+
+label{
+    margin-right:2%;
+
+}
+
+input{
+    width:max-content;
+    margin: 2% auto;
+    font-weight:900;
+    padding:1em;
+}

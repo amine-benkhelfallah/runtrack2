@@ -1,0 +1,33 @@
+*{
+    font-family:' Helvetica, sans-serif';
+   
+    font-size:20px;
+    font-style: italic;
+    font-style: oblique;
+   
+}
+body{
+    background-color: rgb(143, 143, 153);
+}
+
+form{
+    display: flex;
+    flex-direction:column-reverse;
+    margin-top: 10%;
+}
+
+.form-row{
+    display:flex;
+    justify-content: center;
+}
+
+label{
+    margin-right:2%;
+}
+
+input{
+    width:max-content;
+    margin: 2% auto;
+    font-weight:800;
+    padding: 3em;
+}
