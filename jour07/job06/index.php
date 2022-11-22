@@ -3,7 +3,7 @@
     <!DOCTYPE html>
 <html>
     <head>
-        <title>PHP jour 6  job6</title>
+        <title>PHP jour 7  job6</title>
         <meta charset="utf-8">      
     </head>
     <body>
