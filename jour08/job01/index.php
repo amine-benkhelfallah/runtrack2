@@ -1,12 +1,12 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>PHP jour 7  job7</title>
+        <title>PHP jour 8  job1</title>
         <meta charset="utf-8">      
 
 </head>
     <body>
-        <form action="" method="GET">      
+        <form action="" method="POST">      
         <input type="submit" name="button" value="reset">
         </form>
 
@@ -17,7 +17,7 @@
             $_SESSION['nbvisites']++;
         
         }
-        if(isset ($_GET['button'])){
+        if(isset ($_POST['button'])){
             $_SESSION['nbvisites'] = 0 ;
             header("location:"."index.php");
         }
