@@ -1,6 +1,4 @@
-
-
-    <!DOCTYPE html>
+<!DOCTYPE html>
 <html>
     <head>
         <title>PHP jour 7  job7</title>
@@ -74,15 +72,7 @@ function Gras($str){
         }
     }
 
-    ?>
-
-
-
-
-
-
-
-    
+    ?>  
 </body>
 </html>
 
