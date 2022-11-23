@@ -16,7 +16,8 @@
            for($i = 0; isset($str[$i]); $i++){
 
                 if (!isset($str[$i+1])){
-                    $str2 = $str2.$str[0];
+                    $str2 = $str2.$str[0]; //$str2 .=$str[0] meme ecriture 
+                    
                 }
                 else{
                     $str2 = $str2.$str[$i+1];
