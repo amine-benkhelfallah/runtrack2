@@ -14,20 +14,22 @@
             <input type="submit" value="Connexion">
         </form>
 
-    <?php
-    if(!$_POST){
+        <?php
+        if(!$_POST){
 
-    }
-    else {
+        }
+        else {
         if($_POST["username"] === "John" && $_POST["password"] === "Rambo"){
             echo "C'est pas ma guerre";
-        }
+            }
         else{
             echo "Votre pire cauchemar";
+            }
         }
-    }
-    ?>
-</body>
+
+        ?>
+        
+    </body>
 </html>
 
     
