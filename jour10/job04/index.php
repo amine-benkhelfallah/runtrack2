@@ -2,7 +2,7 @@
 <html lang="fr">
 	<head>
 		<meta charset="utf-8">
-        <title>jour 10 job03</title>
+        <title>jour 10 job04</title>
 	</head>
 	<body>
     <h1>Base de données “jour09”</h1>
