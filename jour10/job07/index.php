@@ -16,7 +16,7 @@
         echo "<table border='2'><tr>";
         foreach ( $result_fetch_arry as $key => $value)
         {
-        echo " <th> " . "Superficie totale" . " </th> ";
+        echo " <th> " . "superficie_totale" . " </th> ";
         } 
         echo "</tr>";
         //</thead>
